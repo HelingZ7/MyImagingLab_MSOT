@@ -14,8 +14,11 @@ This program loads tif images (three channels - single wavelength, hb, hbO2) gen
 
 ## **Workflow**
 
-![Select folder to analyze](https://github.com/HelingZ7/MyImagingLab_MSOT_SO2maps/docs/SelectFolder.JPG?raw=true)
+### **Step 1: Select folder to analyze**
+![Select folder to analyze](https://github.com/HelingZ7/MyImagingLab_MSOT_SO2maps/blob/master/docs/SelectFolder.JPG?raw=true)
 
-![Outline region of interest](https://github.com/HelingZ7/MyImagingLab_MSOT_SO2maps/docs/OutlineROI.jpg?raw=true)
+### **Step 2: Outline region of interest**
+![Outline region of interest](https://github.com/HelingZ7/MyImagingLab_MSOT_SO2maps/blob/master/docs/OutlineROI.jpg?raw=true)
 
-![Images are automatically saved in five folders in the results folder](https://github.com/HelingZ7/MyImagingLab_MSOT_SO2maps/docs/OutputFolders.JPG?raw=true)
+### **Images are automatically saved in five folders in the results folder**
+![Images are automatically saved in five folders in the results folder](https://github.com/HelingZ7/MyImagingLab_MSOT_SO2maps/blob/master/docs/OutputFolders.JPG?raw=true)
