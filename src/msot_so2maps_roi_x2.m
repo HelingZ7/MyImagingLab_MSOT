@@ -15,8 +15,8 @@ dirname=uigetdir;
 files = dir(strcat(dirname,'\*.tif'));
 fileinfolder=length(files);
 cd(dirname)
-mkdir('tif')
-cd('tif')
+mkdir('results')
+cd('results')
 mkdir('SO2')
 mkdir('SO2_roi')
 mkdir('SO2_roiandsnr5')
